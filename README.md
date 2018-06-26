@@ -7,3 +7,4 @@ On branch conflict_test
 nothing to commit, working tree clean
 ---------------
 line 1 master
+line 2.2 master
